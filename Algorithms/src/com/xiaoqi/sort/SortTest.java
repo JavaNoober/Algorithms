@@ -8,7 +8,8 @@ public class SortTest {
 //		Selection.sort(a);
 //		show();
 //		Insertion.sort2(a);
-		Shell.sort(a);
+//		Shell.sort(a);
+		Merge.sort2(a);
 	}
 	
 	
